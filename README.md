@@ -27,7 +27,7 @@ The architecture emphasizes separation of concerns, scalable design, and secure 
 
 A short walkthrough demonstrating both the User Dashboard and Admin Panel functionality.
 
-Watch Demo: [Click here to watch](./screenshots/demo.mp4)
+Watch Demo on YouTube: [Click here](https://youtu.be/EyYfSz4Ljbc)
 
 ---
 
