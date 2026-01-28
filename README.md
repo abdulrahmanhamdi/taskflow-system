@@ -23,6 +23,13 @@ TaskFlow provides a simple yet complete task workflow:
 The architecture emphasizes separation of concerns, scalable design, and secure API-driven communication.
 
 ---
+## Demo Video
+
+A short walkthrough demonstrating both the User Dashboard and Admin Panel functionality.
+
+Watch Demo: [Click here to watch](./screenshots/demo.mp4)
+
+---
 
 ## Project Structure
 
